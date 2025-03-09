@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maksym Kurochka
 =======================================================================================================================================
 
-Transport algorithms engineer
+Transportation Algorithms Engineer
 ------------
 
 At the moment I am a third-year student of transportation at Cracow University of Technology. My path in programming started two years ago with VBA, which I was taught at university. The next language was Python because it was on the program and I decided to start learning it myself. It was a great decision, and to this day I am very interested in Python programming.
